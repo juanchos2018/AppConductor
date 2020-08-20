@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/idveProductos"
+        android:title="Ver Productos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/idverdatos"
+        android:title="Ver Datos"
+        app:showAsAction="never" />
+
+
+</menu>
